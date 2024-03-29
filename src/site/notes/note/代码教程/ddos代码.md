@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/代码教程/ddos代码/","tags":["主机教程"],"created":"2024-03-29T16:48:55.199+08:00","updated":"2024-03-29T17:11:17.175+08:00"}
+{"dg-publish":true,"permalink":"/note/代码教程/ddos代码/","tags":["主机教程"],"created":"2024-03-29T16:48:55.199+08:00","updated":"2024-03-29T17:20:02.104+08:00"}
 ---
 
 
